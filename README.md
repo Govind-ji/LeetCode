@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Govind-ji/LeetCode/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/Govind-ji/LeetCode/tree/master/0384-shuffle-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Govind-ji/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Govind-ji/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Heap (Priority Queue)
 |  |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Govind-ji/LeetCode/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Govind-ji/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Govind-ji/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
