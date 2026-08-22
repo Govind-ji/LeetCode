@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        TreeMap<Integer,Integer> mp=new TreeMap<>();
-        TreeMap<Integer,Integer> mp1=new TreeMap<>();
+        HashMap<Integer,Integer> mp=new HashMap<>();
+        HashMap<Integer,Integer> mp1=new HashMap<>();
         int l1=s1.length();
         int l2=s2.length();
         if(l1>l2)return false;
