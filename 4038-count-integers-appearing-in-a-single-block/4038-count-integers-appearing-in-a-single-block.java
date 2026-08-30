@@ -11,9 +11,8 @@ class Solution {
             {
                 s+=mp.get(prev)==cnt?1:0;
                 prev=i;
-                cnt=1;
+                cnt=0;
             }
-            else
             cnt++;
         }
         return cnt==mp.get(prev)?s+1:s;
