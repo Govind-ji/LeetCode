@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Govind-ji/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0496-next-greater-element-i](https://github.com/Govind-ji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Govind-ji/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Govind-ji/LeetCode/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/Govind-ji/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Govind-ji/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Govind-ji/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Govind-ji/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Govind-ji/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Govind-ji/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Govind-ji/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Govind-ji/LeetCode/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Govind-ji/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
@@ -199,8 +202,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
