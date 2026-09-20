@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Govind-ji/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Govind-ji/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Govind-ji/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Govind-ji/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govind-ji/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Govind-ji/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
