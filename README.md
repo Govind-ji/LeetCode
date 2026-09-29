@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Govind-ji/LeetCode/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/Govind-ji/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Govind-ji/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Govind-ji/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Govind-ji/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-ji/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govind-ji/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Govind-ji/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Govind-ji/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [3524-find-x-value-of-array-i](https://github.com/Govind-ji/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Govind-ji/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Divide and Conquer
