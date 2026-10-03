@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Govind-ji/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Govind-ji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Govind-ji/LeetCode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govind-ji/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Govind-ji/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Govind-ji/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Govind-ji/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Govind-ji/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Govind-ji/LeetCode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1143-longest-common-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Govind-ji/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Govind-ji/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Govind-ji/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Govind-ji/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-ji/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Govind-ji/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0496-next-greater-element-i](https://github.com/Govind-ji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Govind-ji/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Govind-ji/LeetCode/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/Govind-ji/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Govind-ji/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Govind-ji/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
@@ -149,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Govind-ji/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Design
@@ -298,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
