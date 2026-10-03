@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Govind-ji/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Govind-ji/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Govind-ji/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Govind-ji/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-ji/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Govind-ji/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Govind-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Govind-ji/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Govind-ji/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Govind-ji/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Govind-ji/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Design
 |  |
 | ------- |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Govind-ji/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## DP on Trees
 |  |
 | ------- |
@@ -288,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Govind-ji/LeetCode/tree/master/0022-generate-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
