@@ -2,8 +2,7 @@ class Solution {
     public int minRotations(String s) {
         int sum=0;
         int curr=0;
-        int l=s.length();
-        for(int i=0;i<l;i++)
+        for(int i=0;i<10;i++)
         {
             int t=s.charAt(i)-'0';
             int d=Math.abs(t-curr);
