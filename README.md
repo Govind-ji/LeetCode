@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Govind-ji/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3524-find-x-value-of-array-i](https://github.com/Govind-ji/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Govind-ji/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Govind-ji/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Govind-ji/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Govind-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Heap (Priority Queue)
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Govind-ji/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Govind-ji/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Govind-ji/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Govind-ji/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
 | ------- |
