@@ -330,4 +330,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Govind-ji/LeetCode/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/Govind-ji/LeetCode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
