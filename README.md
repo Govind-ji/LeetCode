@@ -333,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Govind-ji/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Govind-ji/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Govind-ji/LeetCode/tree/master/0178-rank-scores) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Govind-ji/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
