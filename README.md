@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Govind-ji/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Govind-ji/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-ji/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Govind-ji/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Govind-ji/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Govind-ji/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Govind-ji/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Govind-ji/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Govind-ji/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-ji/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Govind-ji/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
