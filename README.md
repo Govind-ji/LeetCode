@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Govind-ji/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Govind-ji/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Govind-ji/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Govind-ji/LeetCode/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Govind-ji/LeetCode/tree/master/0097-interleaving-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Govind-ji/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Govind-ji/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Govind-ji/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Govind-ji/LeetCode/tree/master/0125-valid-palindrome) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Govind-ji/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Govind-ji/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Govind-ji/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0053-maximum-subarray) |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Govind-ji/LeetCode/tree/master/0178-rank-scores) |
 | [1693-daily-leads-and-partners](https://github.com/Govind-ji/LeetCode/tree/master/1693-daily-leads-and-partners) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Govind-ji/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Govind-ji/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
