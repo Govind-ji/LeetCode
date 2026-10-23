@@ -8,7 +8,7 @@ public:
             if(p!=i)
             {
                 t=p;
-                break;;
+                break;
             }
             i++;
         }
