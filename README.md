@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Govind-ji/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Govind-ji/LeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Govind-ji/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Govind-ji/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-ji/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Govind-ji/LeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Govind-ji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Govind-ji/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Govind-ji/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Govind-ji/LeetCode/tree/master/0739-daily-temperatures) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Govind-ji/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Govind-ji/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Govind-ji/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
