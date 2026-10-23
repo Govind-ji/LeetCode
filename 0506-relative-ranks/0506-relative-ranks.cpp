@@ -11,14 +11,15 @@ public:
         int n=t;
         while(pq.size()>0)
         {
+            int r=pq.top().second;
             if(t==n)
-            v[pq.top().second]="Gold Medal";
+            v[r]="Gold Medal";
             else if(t==n-1)
-            v[pq.top().second]="Silver Medal";
+            v[r]="Silver Medal";
             else if(t==n-2)
-            v[pq.top().second]="Bronze Medal";
+            v[r]="Bronze Medal";
             else
-            v[pq.top().second]=to_string(n-t+1);
+            v[r]=to_string(n-t+1);
             t--;
             pq.pop();
         }
