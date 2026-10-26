@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/Govind-ji/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Govind-ji/LeetCode/tree/master/0414-third-maximum-number) |
+| [0494-target-sum](https://github.com/Govind-ji/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Govind-ji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Govind-ji/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Govind-ji/LeetCode/tree/master/0506-relative-ranks) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Govind-ji/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Govind-ji/LeetCode/tree/master/0337-house-robber-iii) |
+| [0494-target-sum](https://github.com/Govind-ji/LeetCode/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Govind-ji/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Govind-ji/LeetCode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Govind-ji/LeetCode/tree/master/0494-target-sum) |
 ## Ordered Set
 |  |
 | ------- |
@@ -365,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Govind-ji/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Govind-ji/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Govind-ji/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
