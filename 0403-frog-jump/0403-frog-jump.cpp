@@ -1,31 +1,26 @@
 class Solution {
 public:
-int t[2001][2001];
-bool dphelp(vector<int> & stones,unordered_map<int,int> &mp,int curr,int prev,int n)
+
+bool dphelp(vector<int>& stones,int curr,int prev,vector<vector<int>>& dp,unordered_map<int,int>&mp)
 {
-    if(curr==n-1)return true;
-    bool res=false;
-    if(t[curr][prev]!=-1)return t[curr][prev];
-    for(int nj=prev-1;nj<=prev+1;nj++)
+    if(curr==stones.size()-1)return true;
+    bool ans=false;
+    if(dp[curr][prev]!=-1)return dp[curr][prev];
+    for(int t=prev-1;t<=prev+1;t++)
     {
-        if(nj>0)
-        {
-        int next=nj+stones[curr];  
-        if(mp.find(next)!=mp.end()) //find ye dekh rha ki stones us number ka present hai ya nhi
-        res=res||dphelp(stones,mp,mp[next],nj,n);
-        }
+        if(t>0 && mp.count(stones[curr]+t))
+        ans=ans||dphelp(stones,mp[stones[curr]+t],t,dp,mp);
     }
-    return t[curr][prev]=res;
+    return dp[curr][prev]=ans;
 }
     bool canCross(vector<int>& stones) {
+        vector<vector<int>> dp(2001,vector<int>(2001,-1));
         int n=stones.size();
-        unordered_map<int,int>mp;
         if(stones[1]!=1)return false;
+        unordered_map<int,int> mp;
         for(int i=0;i<n;i++)
-        {
-            mp[stones[i]]=i;
-        }
-        memset(t,-1,sizeof(t));
-        return dphelp(stones,mp,0,0,n);
+        mp[stones[i]]=i;
+        return dphelp(stones,0,0,dp,mp);
+        
     }
 };
