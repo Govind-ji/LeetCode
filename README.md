@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Govind-ji/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Govind-ji/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Govind-ji/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/Govind-ji/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Govind-ji/LeetCode/tree/master/0414-third-maximum-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Govind-ji/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Govind-ji/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Govind-ji/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Govind-ji/LeetCode/tree/master/0337-house-robber-iii) |
 | [0494-target-sum](https://github.com/Govind-ji/LeetCode/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -375,9 +377,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Govind-ji/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Govind-ji/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Govind-ji/LeetCode/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Govind-ji/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Govind-ji/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
