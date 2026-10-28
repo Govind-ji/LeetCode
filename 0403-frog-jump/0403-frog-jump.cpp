@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-bool dphelp(vector<int>& stones,int curr,int prev,vector<vector<int>>& dp,unordered_map<int,int>&mp)
+bool dphelp(vector<int>& stones,int curr,int prev,int dp[][2001],unordered_map<int,int>&mp)
 {
     if(curr==stones.size()-1)return true;
     bool ans=false;
@@ -14,7 +14,8 @@ bool dphelp(vector<int>& stones,int curr,int prev,vector<vector<int>>& dp,unorde
     return dp[curr][prev]=ans;
 }
     bool canCross(vector<int>& stones) {
-        vector<vector<int>> dp(2001,vector<int>(2001,-1));
+        int dp[2001][2001];
+        memset(dp,-1,sizeof(dp));
         int n=stones.size();
         if(stones[1]!=1)return false;
         unordered_map<int,int> mp;
