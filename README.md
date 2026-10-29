@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Govind-ji/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/Govind-ji/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Govind-ji/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govind-ji/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Govind-ji/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Govind-ji/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Govind-ji/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Govind-ji/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Govind-ji/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Govind-ji/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3498-reverse-degree-of-a-string](https://github.com/Govind-ji/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Govind-ji/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Govind-ji/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Govind-ji/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Govind-ji/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Govind-ji/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Govind-ji/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Govind-ji/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Govind-ji/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Govind-ji/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Govind-ji/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Govind-ji/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Govind-ji/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Govind-ji/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Govind-ji/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
