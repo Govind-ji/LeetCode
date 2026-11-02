@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Govind-ji/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Govind-ji/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Govind-ji/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Govind-ji/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Govind-ji/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Govind-ji/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Govind-ji/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Govind-ji/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/Govind-ji/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0384-shuffle-an-array](https://github.com/Govind-ji/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Govind-ji/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Govind-ji/LeetCode/tree/master/0518-coin-change-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Govind-ji/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
