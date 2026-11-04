@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Govind-ji/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Govind-ji/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2751-robot-collisions](https://github.com/Govind-ji/LeetCode/tree/master/2751-robot-collisions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-ji/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Govind-ji/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Govind-ji/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Govind-ji/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2751-robot-collisions](https://github.com/Govind-ji/LeetCode/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Govind-ji/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-ji/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govind-ji/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Govind-ji/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Govind-ji/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Govind-ji/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2751-robot-collisions](https://github.com/Govind-ji/LeetCode/tree/master/2751-robot-collisions) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Govind-ji/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2751-robot-collisions](https://github.com/Govind-ji/LeetCode/tree/master/2751-robot-collisions) |
 | [3498-reverse-degree-of-a-string](https://github.com/Govind-ji/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## DP on Trees
