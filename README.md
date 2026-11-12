@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Govind-ji/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Govind-ji/LeetCode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Govind-ji/LeetCode/tree/master/0567-permutation-in-string) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Govind-ji/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Array
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Govind-ji/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Govind-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Govind-ji/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Govind-ji/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
