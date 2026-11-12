@@ -3,14 +3,13 @@ public:
 const long mod=1e9+7;
 int reversen(int num)
 {
-    string r=to_string(num);
-    reverse(r.begin(),r.end());
-    int p=0;
-    for(char c:r)
+    int ans=0;
+    while(num)
     {
-        p=(p*10)+(c-'0');
+        ans=(ans*10)+num%10;
+        num/=10;
     }
-    return p;
+    return ans;
 }
     int countNicePairs(vector<int>& nums) {
         unordered_map<int,int> mp;
