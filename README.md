@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Govind-ji/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Govind-ji/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Govind-ji/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Govind-ji/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Govind-ji/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Govind-ji/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Govind-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Govind-ji/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Govind-ji/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Govind-ji/LeetCode/tree/master/0994-rotting-oranges) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Govind-ji/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
