@@ -3,7 +3,7 @@ public:
 int coin(vector<int>& coins,int a,int s,vector<int>& mp)
 {
     if(a==s)return 0;
-    if(mp[s]!=-1)return mp[s];
+    if(mp[a-s]!=-1)return mp[a-s];
     int ans=INT_MAX;
     for(int i=0;i<coins.size();i++)
     {
@@ -11,7 +11,7 @@ int coin(vector<int>& coins,int a,int s,vector<int>& mp)
         int pick=coin(coins,a,s+coins[i],mp);
         if(pick!=INT_MAX)ans=min(ans,pick+1);
     }
-    return mp[s]=ans;
+    return mp[a-s]=ans;
 }
     int coinChange(vector<int>& coins, int amount) {
         vector<int> mp(amount+1,-1);
