@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Govind-ji/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Govind-ji/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Govind-ji/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Govind-ji/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Govind-ji/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Govind-ji/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Govind-ji/LeetCode/tree/master/0120-triangle) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Govind-ji/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Govind-ji/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Govind-ji/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/Govind-ji/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Govind-ji/LeetCode/tree/master/0743-network-delay-time) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Govind-ji/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
