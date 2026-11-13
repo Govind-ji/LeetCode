@@ -1,20 +1,20 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> v(nums1.size(),-1);
-        for(int i=0;i<nums1.size();i++)
+        stack<int> st;
+        unordered_map<int,int> mp;
+        int n=nums2.size();
+        for(int i=n-1;i>=0;i--)
         {
-            int pos=find(nums2.begin(),nums2.end(),nums1[i])-nums2.begin();
-            while(pos<nums2.size())
-            {
-                if(nums2[pos]>nums1[i])
-                {
-                v[i]=nums2[pos];
-                break;}
-                pos++;
-            }
-            cout<<endl;
+            while(!st.empty() && nums2[st.top()]<nums2[i])st.pop();
+            if(st.empty())
+            mp[nums2[i]]=-1;
+            else 
+            mp[nums2[i]]=nums2[st.top()];
+            st.push(i);
         }
-        return v;
+        for(int &i:nums1)
+        i=mp[i];
+        return nums1;
     }
 };
