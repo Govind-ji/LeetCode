@@ -1,23 +1,24 @@
 class Solution {
 public:
-int dphelp(vector<int>&prices,vector<vector<vector<int>>>& dp,int n,int i,int b,int t)
+int func(vector<int> & prices,int i,bool b,int t,vector<vector<vector<int>>>& dp,int n)
 {
-    if(i==n||t<0)return 0;
-    if(dp[i][b][t]!=-1)return dp[i][b][t];
-    int prof;
+    if(i==n || t==0)return 0;
+    if(dp[i][b][t]!=-1)
+    return dp[i][b][t];
+    int profit=0;
     if(b)
     {
-        prof=max(dphelp(prices,dp,n,i+1,!b,t)-prices[i],dphelp(prices,dp,n,i+1,b,t));
-    }
+        profit=max(-prices[i]+func(prices,i+1,!b,t,dp,n),func(prices,i+1,b,t,dp,n));
+    }    
     else
     {
-        prof=max(dphelp(prices,dp,n,i+1,!b,t-1)+prices[i],dphelp(prices,dp,n,i+1,b,t));
+        profit=max(prices[i]+func(prices,i+1,!b,t-1,dp,n),func(prices,i+1,b,t,dp,n));
     }
-    return dp[i][b][t]=prof;
+    return dp[i][b][t]=profit;
 }
     int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        vector<vector<vector<int>>> dp(n,vector<vector<int>>(2,vector<int>(2,-1)));
-        return dphelp(prices,dp,n,0,1,1);
+        
+        vector<vector<vector<int>>> mp(prices.size(),vector<vector<int>>(2,vector<int>(3,-1)));
+        return func(prices,0,1,2,mp,prices.size());
     }
 };
