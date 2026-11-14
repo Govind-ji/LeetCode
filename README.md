@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Govind-ji/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Govind-ji/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1094-car-pooling](https://github.com/Govind-ji/LeetCode/tree/master/1094-car-pooling) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Govind-ji/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Govind-ji/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2751-robot-collisions](https://github.com/Govind-ji/LeetCode/tree/master/2751-robot-collisions) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Govind-ji/LeetCode/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/Govind-ji/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Govind-ji/LeetCode/tree/master/0994-rotting-oranges) |
+| [1094-car-pooling](https://github.com/Govind-ji/LeetCode/tree/master/1094-car-pooling) |
 | [1470-shuffle-the-array](https://github.com/Govind-ji/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Govind-ji/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Govind-ji/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Govind-ji/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/Govind-ji/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1094-car-pooling](https://github.com/Govind-ji/LeetCode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Govind-ji/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Govind-ji/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Govind-ji/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Govind-ji/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Govind-ji/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Govind-ji/LeetCode/tree/master/0743-network-delay-time) |
+| [1094-car-pooling](https://github.com/Govind-ji/LeetCode/tree/master/1094-car-pooling) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Govind-ji/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Govind-ji/LeetCode/tree/master/1094-car-pooling) |
 | [2751-robot-collisions](https://github.com/Govind-ji/LeetCode/tree/master/2751-robot-collisions) |
 | [3498-reverse-degree-of-a-string](https://github.com/Govind-ji/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Govind-ji/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
