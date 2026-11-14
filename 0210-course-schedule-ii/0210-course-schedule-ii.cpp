@@ -1,36 +1,35 @@
 class Solution {
 public:
     vector<int> findOrder(int num, vector<vector<int>>& p) {
-        vector<int> ans;
-        vector<vector<int>> adj(num);
         vector<int> ind(num,0);
+        vector<vector<int>> adj(num);
         for(vector<int> v:p)
         {
             adj[v[1]].push_back(v[0]);
-            ind[v[0]]++;   //dependency wale nodes
+            ind[v[0]]++;
         }
-        queue<int> q;  // source dhoondh rhe jiski dependency 0 ho
+        queue<int> q;
         for(int i=0;i<num;i++)
         {
             if(ind[i]==0)
             q.push(i);
         }
+        vector<int> v;
         while(!q.empty())
         {
-            int x=q.front();
-            ans.push_back(x);
+            int f=q.front();
             q.pop();
-            vector<int> r=adj[x];
-            for(int i:r){
-                ind[i]--;
-                if(!ind[i])
-                q.push(i); //jiski dependency khtm vo agnge complte kr skte hain
+            v.push_back(f);
+            for(int u:adj[f])
+            {
+                ind[u]--;
+                if(!ind[u])q.push(u);
             }
         }
-        for(int i:ind)//jiski indegree 0 hai mtlb complete ho gaya 
+        for(int i:ind)
         {
-            if(i!=0)return {};
+            if(i)return {};
         }
-        return ans;
+        return v;
     }
 };
