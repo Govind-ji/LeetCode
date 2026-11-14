@@ -1,29 +1,27 @@
 class Solution {
 public:
-void dfs(vector<vector<int>>& adj,vector<int> &vis,int i)
+void dfshelp(vector<vector<int>>& adj,vector<int>& vis,int curr)
 {
-    vis[i]=1;
-    for(int u=0;u<vis.size();u++)
+    vis[curr]=1;
+    for(int i=0;i<vis.size();i++)
     {
-        if(vis[u]==-1 && adj[i][u]==1)
-        dfs(adj,vis,u);
+        if(vis[i]==-1 && adj[curr][i]==1 )
+        dfshelp(adj,vis,i);
     }
-    return ;
+    return;
 }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n=isConnected.size();
-        vector<int> v(n,-1);
-        int t=0;
+    int findCircleNum(vector<vector<int>>& adj) {
+        int n=adj.size();
+        vector<int> vis(n,-1);
+        int s=0;
         for(int i=0;i<n;i++)
         {
-            if(v[i]==-1)
+            if(vis[i]==-1)
             {
-                cout<<i<<" ";
-                t++;
-                v[i]=1;
-                dfs(isConnected,v,i);
+                s++;
+                dfshelp(adj,vis,i);
             }
         }
-        return t;
+        return s;
     }
 };
