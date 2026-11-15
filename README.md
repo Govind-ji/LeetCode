@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3674-minimum-operations-to-equalize-array](https://github.com/Govind-ji/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Govind-ji/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Govind-ji/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3840-house-robber-v](https://github.com/Govind-ji/LeetCode/tree/master/3840-house-robber-v) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Govind-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Govind-ji/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Govind-ji/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Govind-ji/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Govind-ji/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [3524-find-x-value-of-array-i](https://github.com/Govind-ji/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3840-house-robber-v](https://github.com/Govind-ji/LeetCode/tree/master/3840-house-robber-v) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Govind-ji/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Divide and Conquer
 |  |
