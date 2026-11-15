@@ -14,15 +14,14 @@ public:
 pair<int,int> rec(TreeNode* root)
 {
     if(!root)return {0,0};
-    auto i=rec(root->left);
-    auto j=rec(root->right);
-    int inc=root->val+i.second+j.second;
-    int exc=max(i.second,i.first)+max(j.second,j.first);
+    pair<int,int> l=rec(root->left);
+    pair<int,int> r=rec(root->right);
+    int inc=root->val+l.second+r.second;  //if we are including the current node then we have to take the exc part
+    int exc=max(l.first,l.second)+max(r.first,r.second);//if we are excluding the current node then we can include or excude the previous node
     return {inc,exc};
 }
-
     int rob(TreeNode* root) {
-        auto t=rec(root);
-        return max(t.first,t.second);
+        pair <int,int> maxi=rec(root);
+        return max(maxi.first,maxi.second);
     }
 };
