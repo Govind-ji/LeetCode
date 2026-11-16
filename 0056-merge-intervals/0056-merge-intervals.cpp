@@ -1,19 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        int n=intervals.size();
-        sort(intervals.begin(),intervals.end(),[](vector<int> a,vector<int> b){return a[0]<b[0];});
-        vector<vector<int>> v;
-        v.push_back(intervals[0]);
+    vector<vector<int>> merge(vector<vector<int>>& points) {
+        sort(points.begin(),points.end(),[](auto i,auto j){
+            return i[0]<j[0];
+        });
+        vector<vector<int>> ans;
+        ans.push_back(points[0]);
+        int n=points.size();
         for(int i=1;i<n;i++)
         {
-            if(v.back()[1]>=intervals[i][0])
+            if(ans.back()[1]>=points[i][0])
             {
-                v.back()[1]=max(v.back()[1],intervals[i][1]);
+                ans.back()[1]=max(points[i][1],ans.back()[1]);
             }
             else
-            v.push_back(intervals[i]);
+            ans.push_back(points[i]);
         }
-        return v;
+        return ans;
     }
 };
