@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-pair<int,int> rec(TreeNode* root)
+pair<int,int> dphelp(TreeNode* root)
 {
     if(!root)return {0,0};
-    pair<int,int> l=rec(root->left);
-    pair<int,int> r=rec(root->right);
-    int inc=root->val+l.second+r.second;  //if we are including the current node then we have to take the exc part
-    int exc=max(l.first,l.second)+max(r.first,r.second);//if we are excluding the current node then we can include or excude the previous node
+    pair<int,int> l=dphelp(root->left);
+    pair<int,int> r=dphelp(root->right);
+    int inc=root->val+l.second+r.second;
+    int exc=max(l.first,l.second)+max(r.second,r.first);
     return {inc,exc};
 }
     int rob(TreeNode* root) {
-        pair <int,int> maxi=rec(root);
-        return max(maxi.first,maxi.second);
+        pair<int,int> dp=dphelp(root);
+        return max(dp.first,dp.second);
     }
 };
