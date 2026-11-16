@@ -1,38 +1,32 @@
 class Solution {
-public:
-void dfshelp(vector<vector<int>> &adj,map<pair<int,int>,int>&cost,int k,vector<int>&dist,int curr)
-{
-	for(int u:adj[k])
-	{
-		
-		int newc=curr+cost[{k,u}];
-        if(newc<dist[u])
-		{
-            dist[u]=newc;
-	        dfshelp(adj,cost,u,dist,newc);
+public:   //by dijikstras
+    int networkDelayTime(vector<vector<int>>& times, int n, int k) {
+        vector<int> dis(n+1,INT_MAX);
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        dis[k]=0;
+        pq.push({0,k});
+        vector<vector<pair<int,int>>> adj(n+1);
+        for(vector<int> v:times)
+        {
+            adj[v[0]].push_back({v[1],v[2]});
         }
-	}
-	return ;
-}
-int networkDelayTime(vector<vector<int>>& graph, int n, int k) {
-	vector<vector<int>> adj(n+1);
-	map<pair<int,int>,int> cost;
-	for(vector<int> v:graph)
-	{
-		cost[{v[0],v[1]}]=v[2];
-		adj[v[0]].push_back(v[1]);
-	}
-	vector<int> dist(n+1,INT_MAX);
-	dist[k]=0;
-	dfshelp(adj,cost,k,dist,0);
-	int maxi=0;
-	for(int i=1;i<n+1;i++)
-	{
-		if(dist[i]==INT_MAX)return -1;
-		maxi=max(maxi,dist[i]);
-	}
-	return maxi;
-
-        
+        while(!pq.empty())
+        {
+            auto [cst,nd]=pq.top();
+            pq.pop();
+            if(cst>dis[nd])continue;
+            for(pair<int,int> v:adj[nd])
+            {
+                int newcst=cst+v.second;
+                int x=v.first;
+                if(newcst<dis[x])
+                {
+                    dis[x]=newcst;
+                    pq.push({newcst,x});
+                }
+            }
+        }
+        int maxi=*max_element(dis.begin()+1,dis.end());
+        return maxi==INT_MAX?-1:maxi;
     }
 };
