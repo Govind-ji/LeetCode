@@ -1,9 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& points) {
-        sort(points.begin(),points.end(),[](auto i,auto j){
-            return i[0]<j[0];
-        });
+        sort(points.begin(),points.end());
         vector<vector<int>> ans;
         ans.push_back(points[0]);
         int n=points.size();
