@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Govind-ji/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Govind-ji/LeetCode/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/Govind-ji/LeetCode/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Govind-ji/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/Govind-ji/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Govind-ji/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Govind-ji/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Govind-ji/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/Govind-ji/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1094-car-pooling](https://github.com/Govind-ji/LeetCode/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Govind-ji/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Govind-ji/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Govind-ji/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Govind-ji/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Govind-ji/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/Govind-ji/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0384-shuffle-an-array](https://github.com/Govind-ji/LeetCode/tree/master/0384-shuffle-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Govind-ji/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Govind-ji/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Govind-ji/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Govind-ji/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Govind-ji/LeetCode/tree/master/0146-lru-cache) |
 | [0384-shuffle-an-array](https://github.com/Govind-ji/LeetCode/tree/master/0384-shuffle-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Govind-ji/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
 | ------- |
@@ -566,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Govind-ji/LeetCode/tree/master/0062-unique-paths) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Govind-ji/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
